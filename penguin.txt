@@ -1,13 +1,1 @@
-abc
-
-efd
-ggg
-
-peguin
-penguin2
-
-gg
-
-34566666777777
-
-from newer
+penguin
